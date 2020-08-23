@@ -40,6 +40,7 @@ with MarkDown we can
 - making some headers. 
 ```
 **Exmaple :**
+
 Making Bold Text : we can use ** in the begin of the text and at the end  `**Bold**` **Bold**
 To create a heading, : we use hash `#` at the begin of sentence like `# The largest heading` and it will be lookslike below 
 # Here The Second Example Of Heading 
