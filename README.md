@@ -1,5 +1,10 @@
 # Growth Mindset
 
+** Who Iam ? **
+
+> Aghyad Albalkhi : A Fresh Graduate computer science student from philadelphia University and This is my GitHub portfolio [My GitHub portfolio page](https://github.com/aghyadalbalkhi-ASAC/Lab-01b---Learning-Markdown).
+
+
 `The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.`
 
 ## What is a growth mindset?
