@@ -1,6 +1,6 @@
 # Growth Mindset
 
-** Who Iam ? **
+**Who Iam ?**
 
 > Aghyad Albalkhi : A Fresh Graduate computer science student from philadelphia University and This is my GitHub portfolio [My GitHub portfolio page](https://github.com/aghyadalbalkhi-ASAC/Lab-01b---Learning-Markdown).
 
