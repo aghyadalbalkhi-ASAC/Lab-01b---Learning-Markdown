@@ -10,7 +10,7 @@
 ## What is a growth mindset?
 
 ###### The Growth Mindset is that when somebody or person thought he can developed his self by hard working and exploit his skills as a start point to gooo .   
-
+  
 What I do  to keep yourself in a growth mindset
 - Joining Tranining about my Intersted Filed
 - Matching with pepole with the same Intersted 
