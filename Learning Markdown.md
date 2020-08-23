@@ -1,12 +1,17 @@
-# GitHub 
+# Read: 02 - The Coder's Computer
 
-**Did You Hear Before About GitHub or Github Pages ? Did you see ReadMe files in somewhere in the internet when your searching for something related to Source Code ?**
 
+**Today we will talk about what the tools and software that programmer used in the Technology industry**
+```
+To Develop any web site the programmer should have the following : 
+- text editors
+- skills in  using the command line
+- general info about files 
+
+```
 
 
 ## Let's Start
-
-Let's Start
 
 > Github Pages
 
