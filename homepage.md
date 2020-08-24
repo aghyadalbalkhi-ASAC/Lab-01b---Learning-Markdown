@@ -6,7 +6,7 @@ Lab:03
 
 # Table of Contents
 
-| Learning MarkDown       | https://aghyadalbalkhi-asac.github.io/Reading-Notes/Learning%20Markdown                            |
+| Learning MarkDown       | [Learning MarkDown ](https://aghyadalbalkhi-asac.github.io/Reading-Notes/Learning%20Markdown)                            |
 |-------------------------|----------------------------------------------------------------------------------------------------|
-| Revisions and the Cloud | https://aghyadalbalkhi-asac.github.io/Reading-Notes/Read:%2003%20-%20Revisions%20and%20the%20Cloud |
-| The Coder’s Compute     | https://aghyadalbalkhi-asac.github.io/Reading-Notes/The%20Coder's%20Compute                        |
+| Revisions and the Cloud | [Revisions and the Cloud ](https://aghyadalbalkhi-asac.github.io/Reading-Notes/Read:%2003%20-%20Revisions%20and%20the%20Cloud)|
+| The Coder’s Compute     | [The Coder’s Compute ](https://aghyadalbalkhi-asac.github.io/Reading-Notes/The%20Coder's%20Compute)                     |
