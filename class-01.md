@@ -87,6 +87,5 @@ The HTML5 <video> element specifies a standard way to embed a video in a web pag
 ```
 Semantic HTML or semantic markup is HTML that introduces meaning to the web page rather
 than just presentation For example, a <p> tag indicates that the enclosed text is a paragraph
-
 ```
 ![semantic](semantic.png) 
